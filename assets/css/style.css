@@ -1,0 +1,13 @@
+button#searchButton, button#clearResults {
+   margin-top:15px;
+}
+
+body {
+    background-color:black;
+    color:white;
+}
+
+h1#title , h1#topArticlesTitle {
+    margin-top:15px;
+    margin-bottom: 15px;
+}
